@@ -1,0 +1,2 @@
+public clacc Converter {
+}
